@@ -1,0 +1,20 @@
+{
+  "name": "genpark-multi-agent-debate-consensus-engine-skill",
+  "version": "1.0.0",
+  "description": "Multi-agent adversarial debate engine with iterative rebuttals, scoring matrices, and consensus synthesis",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "multi-agent",
+    "agent-debate",
+    "consensus",
+    "swarm-intelligence",
+    "collaborative-ai",
+    "python-standard-library",
+    "agent-skills",
+    "deliberation",
+    "group-decision",
+    "decision-making"
+  ]
+}
