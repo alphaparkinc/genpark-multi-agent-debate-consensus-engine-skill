@@ -1,0 +1,6 @@
+name: genpark-multi-agent-debate-consensus-engine-skill
+version: 1.0.0
+description: Multi-agent adversarial debate engine with iterative rebuttals, scoring matrices, and consensus synthesis
+command: python
+args:
+  - mcp_server.py
